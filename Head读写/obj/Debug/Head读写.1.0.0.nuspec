@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Head读写</id>
+    <version>1.0.0</version>
+    <authors>Head读写</authors>
+    <owners>Head读写</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Office.Interop.Excel" version="15.0.4795.1000" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.runtimeconfig.json" target="lib\netcoreapp2.1\Head读写.runtimeconfig.json" />
+    <file src="C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.dll" target="lib\netcoreapp2.1\Head读写.dll" />
+  </files>
+</package>

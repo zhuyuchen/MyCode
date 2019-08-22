@@ -1,0 +1,10 @@
+C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.deps.json
+C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.runtimeconfig.json
+C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.runtimeconfig.dev.json
+C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.dll
+C:\Users\zhuyu\source\repos\Head读写\Head读写\bin\Debug\netcoreapp2.1\Head读写.pdb
+C:\Users\zhuyu\source\repos\Head读写\Head读写\obj\Debug\netcoreapp2.1\Head读写.csproj.CoreCompileInputs.cache
+C:\Users\zhuyu\source\repos\Head读写\Head读写\obj\Debug\netcoreapp2.1\Head读写.AssemblyInfoInputs.cache
+C:\Users\zhuyu\source\repos\Head读写\Head读写\obj\Debug\netcoreapp2.1\Head读写.AssemblyInfo.cs
+C:\Users\zhuyu\source\repos\Head读写\Head读写\obj\Debug\netcoreapp2.1\Head读写.dll
+C:\Users\zhuyu\source\repos\Head读写\Head读写\obj\Debug\netcoreapp2.1\Head读写.pdb
